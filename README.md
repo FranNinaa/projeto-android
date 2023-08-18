@@ -39,7 +39,7 @@ Contribuições são bem-vindas! Se você deseja adicionar mais informações, m
 
 Este projeto foi desenvolvido por Francine dos Santos.
 
-##Imagens da finalização do site 
+## Imagens da finalização do site 
 
 
    ![Capturar1](https://github.com/FranNinaa/projeto-android/assets/125395105/5dcdeac1-7192-4354-a92a-4c3ebd743b22)
